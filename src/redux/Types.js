@@ -1,0 +1,1 @@
+export const CART_COUNT="CART_COUNT"

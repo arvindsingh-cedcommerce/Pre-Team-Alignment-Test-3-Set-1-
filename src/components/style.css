@@ -1,0 +1,12 @@
+.count_btn {
+    background-color: rgb(199, 199, 199);
+    color: #ffa184;
+}
+/* .count_btn:hover {
+    background-color: rgb(180, 177, 177);
+    color: black;
+} */
+.cart_btn {
+    background-color: black;
+    color: white;
+}
